@@ -33,7 +33,7 @@ function Home2() {
           </Col>
           <Col md={4} className="myAvtar">
             <Tilt>
-              <img src="about-me.jpg" className="img-fluid" alt="avatar" style={{ borderRadius: "50%", width: "230px", height: "230px", objectFit: "cover" }} />
+              <img src={process.env.PUBLIC_URL + "/about-me.jpg"} className="img-fluid" alt="avatar" style={{ borderRadius: "50%", width: "230px", height: "230px", objectFit: "cover" }} />
             </Tilt>
           </Col>
         </Row>
