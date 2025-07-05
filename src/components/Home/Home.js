@@ -31,7 +31,7 @@ function Home() {
 
             <Col md={5} style={{ paddingBottom: 20 }}>
               <img
-                src={process.env.PUBLIC_URL + "/Coding-amico (2).png"}
+                src={process.env.PUBLIC_URL + "/coding-amico (2).png"}
                 alt="home pic"
                 className="img-fluid"
                 style={{ maxHeight: "450px" }}
