@@ -29,7 +29,13 @@ function About() {
             style={{ paddingTop: "120px", paddingBottom: "50px" }}
             className="about-img"
           >
-            <img src="/coding_amigo_2.png" alt="about" className="img-fluid" />
+            <img
+              src={process.env.PUBLIC_URL + "/header-me.png"}
+              alt="about"
+              className="img-fluid"
+              style={{ maxHeight: "450px" }}
+
+            />
           </Col>
         </Row>
         <h1 className="project-heading">
