@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/myportfolio/static/css/main.d622ee92.css",
-    "main.js": "/myportfolio/static/js/main.8c534e4e.js",
+    "main.js": "/myportfolio/static/js/main.ed567b48.js",
     "static/js/787.5c0b2d12.chunk.js": "/myportfolio/static/js/787.5c0b2d12.chunk.js",
     "static/media/HevvaHeseneliyevaCV.pdf": "/myportfolio/static/media/HevvaHeseneliyevaCV.0cd2f0cabe18aab2d857.pdf",
     "static/media/home-bg.jpg": "/myportfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/pre.svg": "/myportfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/myportfolio/index.html",
     "main.d622ee92.css.map": "/myportfolio/static/css/main.d622ee92.css.map",
-    "main.8c534e4e.js.map": "/myportfolio/static/js/main.8c534e4e.js.map",
+    "main.ed567b48.js.map": "/myportfolio/static/js/main.ed567b48.js.map",
     "787.5c0b2d12.chunk.js.map": "/myportfolio/static/js/787.5c0b2d12.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d622ee92.css",
-    "static/js/main.8c534e4e.js"
+    "static/js/main.ed567b48.js"
   ]
 }
