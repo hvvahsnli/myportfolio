@@ -36,7 +36,7 @@ function NavBar() {
       className={navColour ? "sticky" : "navbar"}
     >
       <Container>
-        <Navbar.Brand href="/" className="d-flex">
+        <Navbar.Brand href="https://hvvahsnli.github.io/myportfolio/" className="d-flex">
           <h1 style={{ color: "#c770f0", fontWeight: "600" }}>HH.</h1>
         </Navbar.Brand>
         <Navbar.Toggle
