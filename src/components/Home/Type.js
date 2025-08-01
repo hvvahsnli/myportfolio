@@ -9,7 +9,6 @@ function Type() {
           "Frontend Developer",
           "React Developer",
           "Freelancer",
-          "Open Source Contributor",
         ],
         autoStart: true,
         loop: true,

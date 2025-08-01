@@ -8,8 +8,8 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <b className="purple">Hevva</b> from Baku, Azerbaijan.
-            I am currently working as a frontend developer, passionate about building interactive, user-friendly web interfaces.
-            I have experience with modern technologies like React.js, JavaScript (ES6+), HTML5, and CSS3.
+            As a frontend developer, I primarily work with React.js, JavaScript (ES6+), HTML5, and CSS3.
+            Additionally, I work with Formik for form management, Redux Toolkit for efficient state management, React Router for routing, Tailwind CSS for fast and functional designs, TypeScript for writing type-safe code, and Next.js for building high-performance React applications.
           </p>
 
         </blockquote>
