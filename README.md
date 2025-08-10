@@ -18,7 +18,8 @@ This project is my personal **Portfolio Website** built using React and JavaScri
 ## ⚙️ Installation and Running
 
 ```bash
-git clone <repository-link>
+git clone https://github.com/hvvahsnli/myportfolio.git
 cd portfolio-project
 npm install
 npm start
+
